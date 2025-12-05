@@ -39,14 +39,6 @@ If we veer into the more speculative comparative distant readings could perhaps 
 
 Whether you use EndNote, Zotero or any of the many other citation software, your academic efficiency is going to be improved. Typing out a four-page long reference list is possible, but it will eat into the limited time under a deadline. Annotation tools is one of many examples of the humanities adopting digital technologies for the labour intensive-but-low-output tasks.
 
-#### Observation and Data Gathering 
-
-History Society and Culture Here goes text on HSC related data
-
-- Observing communities of practise - specifically fandom cultures non-related to language practises.
-
-
-
 ## Linguistics
 Linguistics has probably been the most effective adopter of digital technologies within the department. The earliest Sociolinguistic research - such as the well know "Social Stratification of (r) in New York Department stores" by William Labov (1966)<sup>[3]</sup> - had to rely on the observer physically writing down what he heard after each utterance. This approach had a significant chance of error and modern recording devices, and digital analytical tools have made it much easier to review the gathered data for detailed analysis.
 
