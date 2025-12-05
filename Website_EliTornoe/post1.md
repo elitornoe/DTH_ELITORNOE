@@ -80,7 +80,8 @@ You can certainly still do *English* in the classical way, and in fact you shoul
 
 ## References
 1. https://bachelor.au.dk/engelsk
-2. William Labov https://web.stanford.edu/class/linguist62n/labov001.pdf
+2. Sinclair, Stéfan and Geoffrey Rockwell, 2016. Voyant Tools. Web. http://voyant-tools.org/. 
+3. William Labov https://web.stanford.edu/class/linguist62n/labov001.pdf
 3. Speech Accent Archive https://accent.gmu.edu/index.php 
 
 Character Count: 
