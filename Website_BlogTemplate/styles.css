@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+  margin: auto;
+  padding: 15px;
+  background: #618685;
+  max-width: 800pt;
+  ;
+}
+
+
+
+h5 {
+  opacity: 50%;
+  color: black;
+}
+
+h3 {
+  padding-top: 0pt;
+  font-size: 15pt;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 20pt;
+  padding-bottom: 20pt;
+  font-size: 25px;
+  text-align: center;
+  background-image: url("Portrait.png"); width: auto; height: auto; border: #fff; object-fit: cover;
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  filter: contrast(110%);
+  filter: grayscale(10%);
+  filter: brightness(90%);
+  filter: opacity(90%);
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: right;
+  width: 25%;
+  padding-left: 20px;
+  position: sticky;
+  top: 0px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #cb4141;
+  padding: 10px;
+  width: 17%;
+}
+
+
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 15px
+}
+
+.readmore {
+  display: inline-block;
+  padding: 15px 5%;
+  margin-top: auto;
+  margin-left: 40%; 
+  font-size: 15px;
+  text-align: center;
+  color: #fff;
+  background-color: #618685;
+  cursor: pointer;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+
+.readmore:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.apibox {
+  display:block;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  padding-left: 30pt;
+  padding-right: 30pt;
+  text-align: center;
+  color: #fff;
+  background-color: #618685;
+  cursor: pointer;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+
+img.avatar {
+  margin: auto;
+  border-radius: 50px;
+  position: relative;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+
+/* Footer */
+.footer {
+  padding: 10px;
+  text-align: center;
+  background-color: #d5f4e6;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
