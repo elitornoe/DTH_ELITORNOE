@@ -5,11 +5,13 @@ Link to Eli's GitHub: https://github.com/elitornoe/
 Character Count: 
 
 Submission Information
-    Student Number: 
+    
+Student Number: 
         202007614
-    Course Info:
+        
+Course Info:
         Digital Technologies in the Humanities 
         (E25.129222U010.A)
         Stephan Pieter Smuts
-    Date:
-        5th December
+
+Date: 5th December
