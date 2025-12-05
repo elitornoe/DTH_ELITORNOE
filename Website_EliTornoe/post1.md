@@ -18,6 +18,7 @@ For my own approach, I tend to work within sociolinguistics, with a focus on que
 For the next few sections, I will speak to how Literature and History incorporate digitals tools at a general level and then dive deeper into the specifics of Linguistics and Sociolinguistics as those are the fields I spend the most time with.
 
 ## General Digital Technologies
+
 The classic close-reading analysis essay is to this day a tried and true aspect of a degree in English. However while it is an enjoyable task which hones the author's critical thinking and analytical skills, the close-reading essay struggle to justify itself intrinsiclaly in an institution where a product is expected to deliver immediate measureable impact. Therefore, let us talk about how the internet and digital platforms have influenced English Literature and History. 
 
 #### **Research and Access**
@@ -30,15 +31,15 @@ The sheer amount of data out there does however create a new problem: vetting th
 
 #### **Distant Readings**
 
-Specifically for literature, digital technologies have contributed to a new way of reading and analysing literature often known as "distant readings". These are done by submitting any type of text (i.e. a novel, manuscript, transcript) into programs such as [**Voyant Tools**](https://voyant-tools.org/) which will compare and compile each word. One could use sets like this to examine reoccurring words or phrases, programming it to find positive or negative expressions, revealing patterns in an author’s voice and so forth. The programs can also set the data into infographs to help visualise distinct findings.
+Specifically for literature, digital technologies have contributed to a new way of reading and analysing literature often known as "distant readings". These are done by submitting any type of text (i.e. a novel, manuscript, transcript) into programs such as [**Voyant Tools**](https://voyant-tools.org/)<sup>[2]</sup>  which will compare and compile each word. One could use sets like this to examine reoccurring words or phrases, programming it to find positive or negative expressions, revealing patterns in an author’s voice and so forth. The programs can also set the data into infographics to help visualise distinct findings.
 
-A common dilemma within classic English literature, is the question of whether Shakespeare was even a singular author or if several playwrights should be accredited to the beloved plays. Large data analysis of the manuscript could perhaps be one way to reveal this long-drawn mystery (though this is just speculation of one way to use this kind of technology)
+If we veer into the more speculative comparative distant readings could perhaps help us solve a common mystery of classic English Literature; was William Shakespeare even the author of all his accredited works or are we actually talking about several playwrights who could be accredited. Large data analysis comparing the authorial voice and language use could perhaps bring us closer to a definitive reveal of just which parts belong to whom (though this is mostly speculation).
 
 #### **Annotation Tools**
 
-Whether you use EndNote, Zotero or any of the many other citation software, your academic efficiency is going to be improved. Typing out a four-page long reference list is possible, but it will eat into the limited time under a deadline. Annotation tools is one of many examples of the humanities adopting digital technologies for the labour intensive-but-low-output tasks. 
+Whether you use EndNote, Zotero or any of the many other citation software, your academic efficiency is going to be improved. Typing out a four-page long reference list is possible, but it will eat into the limited time under a deadline. Annotation tools is one of many examples of the humanities adopting digital technologies for the labour intensive-but-low-output tasks.
 
-### History Society and Culture
+#### Observation and Data Gathering 
 
 History Society and Culture Here goes text on HSC related data
 
@@ -51,23 +52,17 @@ Linguistics has probably been the most effective adopter of digital technologies
 
 ![a picture of a spectogram](spectogram.gif)
 
-**Accented Speech)** When analysing and comparing speech, one of the most useful tools available to the linguist today is the spectrogram, a visual representation of the soundwaves of the speech pattern. The spectrogram (seen in the picture above) show voice qualities and the speakers specific articulation. Spectrograms are also used for forensic linguistics as a tool for confirming or rebuffing the identity of a perpetrator of a crime.
+#### **Accented Speech** 
+When analysing and comparing speech, one of the most useful tools available to the linguist today is the spectrogram, a visual representation of the soundwaves of the speech pattern. The spectrogram (seen in the picture above) show voice qualities and the speakers specific articulation. Spectrograms are also used for forensic linguistics as a tool for confirming or rebuffing the identity of a perpetrator of a crime.
 
 Another important part of analysing accented speech is the ability to compare one speaker to another. Digital archives is an invaluable tool to access this type of data, with resources such as the **[Speech Accent Archive](https://accent.gmu.edu/index.php)**, a database of hundreds of individuals recorded delivering the same scripted utterance. It is an incredible resource for comparing differences in accented speech.
 
-**Transcriptions)** Automatic transcriptions of interviews is certainly not exclusive to the field of linguistics. Most researchers who do qualitative or quantitative interviews are probably going to want to spend their time analysing the data rather than transcribing it manually. It is not foolproof technology, and it is advanceable to look through a generated transcript to minimise errors, but it an invaluable tool for better efficiency.
+#### 
+**Transcriptions** Automatic transcriptions of interviews is certainly not exclusive to the field of linguistics. Most researchers who do qualitative or quantitative interviews are probably going to want to spend their time analysing the data rather than transcribing it manually. It is not foolproof technology, and it is advanceable to look through a generated transcript to minimise errors, but it an invaluable tool for better efficiency.
 
-**Digital Communities of Praxis)** Finally, another way digital technologies have shaped the field of linguistics is by the explosion of language contact on the internet. The sheer amount of language innovation is difficult to pinpoint, with social media and instant messaging platforms becoming breeding grounds for new phrases, expressions and meaning making. 
+**Digital Communities of Praxis** Finally, another way digital technologies have shaped the field of linguistics is by the explosion of language contact on the internet. The sheer amount of language innovation is difficult to pinpoint, with social media and instant messaging platforms becoming breeding grounds for new phrases, expressions and meaning making. 
 
 The digital linguist can look at things such as the "rules" of texting, the evolving meanings of emojis, how a viral phrase spreads, the social conventions of a meme or how we can decipher the tone of irony through the written word. This type of research could not have happened without the internet, and it reveals much to us on how language contact really works.  
-
-### History Society and Culture
-
-History Society and Culture Here goes text on HSC related data
-
-- Archived primary sources
-- Observing communities of practise - specifically fandom cultures non-related to language practises.
-
 
 ## What have we learned?
 
@@ -79,9 +74,9 @@ You can certainly still do *English* in the classical way, and in fact you shoul
 
 
 ## References
-1. https://bachelor.au.dk/engelsk
-2. Sinclair, Stéfan and Geoffrey Rockwell, 2016. Voyant Tools. Web. http://voyant-tools.org/. 
-3. William Labov https://web.stanford.edu/class/linguist62n/labov001.pdf
-3. Speech Accent Archive https://accent.gmu.edu/index.php 
+1. Aarhus University https://bachelor.au.dk/engelsk (Last accessed December 5<sup>th</sup>)
+2. Sinclair, Stéfan and Geoffrey Rockwell, 2016. Voyant Tools. Web. http://voyant-tools.org/. (Last accessed December 5<sup>th</sup>)
+3. Labov, William https://web.stanford.edu/class/linguist62n/labov001.pdf (Last accessed December 5<sup>th</sup>)
+4. Weinberger, Steven H., Speech Accent Archive https://accent.gmu.edu/index.php  (Last accessed December 5<sup>th</sup>)
 
 Character Count: 
