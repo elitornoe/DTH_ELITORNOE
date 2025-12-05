@@ -30,7 +30,9 @@ The sheer amount of data out there does however create a new problem: vetting th
 
 #### **Distant Readings**
 
-There is another way of adapting the literary analysis using digital programs, these often known as "distant readings". These are done by submitting a manuscript into programs (such as Jupityr (LINK) and examine reoccurring words or phrases, programming to find positive or negative expressions, revealing patterns in an author’s voice. A common dilemma within classic English literature, is the question of whether Shakespeare was even a singular author or if several playwrights should be accredited to the beloved plays. Large data analysis of the manuscript could perhaps be one way to reveal this long-drawn mystery (though this is just speculation of one way to use this kind of technology)
+Specifically for literature, digital technologies have contributed to a new way of reading and analysing literature often known as "distant readings". These are done by submitting any type of text (i.e. a novel, manuscript, transcript) into programs such as [**Voyant Tools**](https://voyant-tools.org/) which will compare and compile each word. One could use sets like this to examine reoccurring words or phrases, programming it to find positive or negative expressions, revealing patterns in an author’s voice and so forth. The programs can also set the data into infographs to help visualise distinct findings.
+
+A common dilemma within classic English literature, is the question of whether Shakespeare was even a singular author or if several playwrights should be accredited to the beloved plays. Large data analysis of the manuscript could perhaps be one way to reveal this long-drawn mystery (though this is just speculation of one way to use this kind of technology)
 
 #### **Annotation Tools**
 
